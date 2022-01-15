@@ -4,8 +4,8 @@
     Author: Tomasz Łabędzki
 
     Script Structure:
-    1. Static Variables
-    2. Run Function
+    1. Main function with settings.
+    2. Standard importrange function replacement (data_importer) with smaller methods for remove headers from souce data & text formatting.
 */
 
 function data_importer_run_with_settings() {
