@@ -1,13 +1,11 @@
 /*
+    Google Sheets Data Importer
+    Describe: Can be used in case of problems with importrange.
+    Author: Tomasz Łabędzki
 
-  Google Sheets Data Importer
-  Describe: Can be used in case of problems with importrange.
-  Author: Tomasz Łabędzki
-
-  Script Structure:
-  1. Static Variables
-  2. Run Function
-  
+    Script Structure:
+    1. Static Variables
+    2. Run Function
 */
 
 function data_importer_run_with_settings() {
