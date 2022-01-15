@@ -1,4 +1,7 @@
 # Google Sheets Data Importer
-Simple universal script for Google Workspace (Google Apps Script) that can be used when:
-- standard IMPORTRANGE formula doesn't with large ranges,
-- or data should be refresh for example once an hour only. 
+
+This script can be use in Google Workspace on Google Apps Script and is written with JavaScript.
+
+It's universal script that can be used when:
+- standard IMPORTRANGE formula doesn't work well with large ranges,
+- or data should be refresh for example once an hour only or once a day.
