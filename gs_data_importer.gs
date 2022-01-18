@@ -1,5 +1,5 @@
 /*
-    Google Sheets Data Importer
+    Google Sheets Data Importer 
     Describe: Can be used in case of problems with importrange.
     Author: Tomasz Łabędzki
 
